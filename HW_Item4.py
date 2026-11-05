@@ -1,4 +1,4 @@
-numbers_to_check = [2, 4, 7, 10, 13, 15, 17]
+numbers_to_check = [2, 4, 7, 10, 13, 15, 17, 19]
 
 for num in numbers_to_check:
     if num < 2:
